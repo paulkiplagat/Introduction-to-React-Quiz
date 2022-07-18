@@ -12,7 +12,7 @@ const users = [
 { name: "Billy Doe", id: 3 }
 ];
 
-//const usersList = users.map((user) => (
+const usersList = users.map((user) => (
 <li key={user.id}>{user.name}</li>
 ))
 
