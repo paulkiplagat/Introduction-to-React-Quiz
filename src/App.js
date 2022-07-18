@@ -17,9 +17,9 @@ const usersList = users.map((user) => (
 ))
 
 // comment this out after completion and uncomment code below it to proceed
-// function Child() {
-// return <div>This is children content</div>;
-// }
+ /*function Child() {
+return <div>This is children content</div>;
+ }
 
 /*
 Challenge: Uncomment this code to complete quiz
@@ -59,13 +59,13 @@ Uncomment this to tackle quiz
 **/
 
 // Comment out after completion
-// function Parent() {
-// return (
-// <div>
-// <h3>Parent Component</h3>
-// </div>
-// );
-// }
+/* function Parent() {
+ return (
+ <div>
+<h3>Parent Component</h3>
+ </div>
+ );
+ }*/
 // Comment above code after completion
 
 function App() {
